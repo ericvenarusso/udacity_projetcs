@@ -1,4 +1,4 @@
-# Udacity Projetcs
+# Udacity Projects
 In this repository has all projects that I did in Udacity Datasciencce Nanodeegre.
 
 * Supervised Learning: Finding Donors
